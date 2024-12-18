@@ -1,0 +1,25 @@
+2024-12-18 01:12:602 INFO  StartPage :20 - Click on Start button : [[ChromeDriver: chrome on windows (18a66f623ccb4d16e314b61dc7015ce7)] -> xpath: //a[@class='gem-c-button govuk-button govuk-button--start']]
+2024-12-18 01:12:848 INFO  StartPage :20 - Click on Start button : [[ChromeDriver: chrome on windows (d0ec0bab501376799f648ff90e99eb36)] -> xpath: //a[@class='gem-c-button govuk-button govuk-button--start']]
+2024-12-18 01:12:171 INFO  NationalityPage :30 - Click on '[[ChromeDriver: chrome on windows (d0ec0bab501376799f648ff90e99eb36)] -> id: response]' tab
+2024-12-18 01:12:462 INFO  NationalityPage :35 - Click on '[[ChromeDriver: chrome on windows (d0ec0bab501376799f648ff90e99eb36)] -> xpath: //button[normalize-space()='Continue']]' tab
+2024-12-18 01:12:541 INFO  ReasonForTravelPage :22 - Click on 'Tourism or visiting family and friends' button
+2024-12-18 01:12:857 INFO  ReasonForTravelPage :27 - Click on '[[ChromeDriver: chrome on windows (d0ec0bab501376799f648ff90e99eb36)] -> xpath: //button[normalize-space()='Continue']]' button
+2024-12-18 01:12:864 INFO  ResultPage :12 - Check text is Displayed
+2024-12-18 01:12:58 INFO  StartPage :20 - Click on Start button : [[ChromeDriver: chrome on windows (9b0813a2c53a8164f496ef8802519042)] -> xpath: //a[@class='gem-c-button govuk-button govuk-button--start']]
+2024-12-18 01:12:450 INFO  NationalityPage :30 - Click on '[[ChromeDriver: chrome on windows (9b0813a2c53a8164f496ef8802519042)] -> id: response]' tab
+2024-12-18 01:12:925 INFO  NationalityPage :35 - Click on '[[ChromeDriver: chrome on windows (9b0813a2c53a8164f496ef8802519042)] -> xpath: //button[normalize-space()='Continue']]' tab
+2024-12-18 01:12:05 INFO  ReasonForTravelPage :22 - Click on 'Work, academic visit or business' button
+2024-12-18 01:12:235 INFO  NationalityPage :35 - Click on '[[ChromeDriver: chrome on windows (9b0813a2c53a8164f496ef8802519042)] -> xpath: //button[normalize-space()='Continue']]' tab
+2024-12-18 01:12:464 INFO  DurationOfStayPage :29 - Click on : longer than 6 monthsmore or less
+2024-12-18 01:12:733 INFO  NationalityPage :35 - Click on '[[ChromeDriver: chrome on windows (9b0813a2c53a8164f496ef8802519042)] -> xpath: //button[normalize-space()='Continue']]' tab
+2024-12-18 01:12:817 INFO  WorkTypePage :16 - Click on 'Health and care professional' button
+2024-12-18 01:12:149 INFO  NationalityPage :35 - Click on '[[ChromeDriver: chrome on windows (9b0813a2c53a8164f496ef8802519042)] -> xpath: //button[normalize-space()='Continue']]' tab
+2024-12-18 01:12:164 INFO  ResultPage :12 - Check text is Displayed
+2024-12-18 01:12:322 INFO  StartPage :20 - Click on Start button : [[ChromeDriver: chrome on windows (91c2111f2603391664b124e5f1da6c45)] -> xpath: //a[@class='gem-c-button govuk-button govuk-button--start']]
+2024-12-18 01:12:598 INFO  NationalityPage :30 - Click on '[[ChromeDriver: chrome on windows (91c2111f2603391664b124e5f1da6c45)] -> id: response]' tab
+2024-12-18 01:12:807 INFO  NationalityPage :35 - Click on '[[ChromeDriver: chrome on windows (91c2111f2603391664b124e5f1da6c45)] -> xpath: //button[normalize-space()='Continue']]' tab
+2024-12-18 01:12:986 INFO  ReasonForTravelPage :22 - Click on 'Join partner or family for a long stay' button
+2024-12-18 01:12:239 INFO  NationalityPage :35 - Click on '[[ChromeDriver: chrome on windows (91c2111f2603391664b124e5f1da6c45)] -> xpath: //button[normalize-space()='Continue']]' tab
+2024-12-18 01:12:395 INFO  FamilyImmigrationStatusPage :16 - Click on 'Yes' button
+2024-12-18 01:12:630 INFO  NationalityPage :35 - Click on '[[ChromeDriver: chrome on windows (91c2111f2603391664b124e5f1da6c45)] -> xpath: //button[normalize-space()='Continue']]' tab
+2024-12-18 01:12:634 INFO  ResultPage :12 - Check text is Displayed
